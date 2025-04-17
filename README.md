@@ -1,43 +1,39 @@
 MyPortfolioUdemy
-Bu proje, Udemy'deki "MyPortfolio" kursu kapsamında geliştirdiğim portföy uygulamasını içermektedir. Uygulama, çeşitli bileşenlerle (view component, admin paneli, deneyim, istatistik, mesajlar, todo list) donatılmış bir portföy sitesidir. Kullanıcılar, projelerimi, deneyimlerimi ve kişisel bilgilerimi kolaylıkla görüntüleyebilir. Ayrıca admin paneli üzerinden bazı verileri yönetebilirsiniz.
+Bu proje, Udemy'deki "MyPortfolio" kursu kapsamÄ±nda geliÅŸtirdiÄŸim portfÃ¶y uygulamasÄ±nÄ± iÃ§ermektedir. Uygulama, Ã§eÅŸitli bileÅŸenlerle (view component, admin paneli, deneyim, istatistik, mesajlar, todo list) donatÄ±lmÄ±ÅŸ bir portfÃ¶y sitesidir. KullanÄ±cÄ±lar, projelerimi, deneyimlerimi ve kiÅŸisel bilgilerimi kolaylÄ±kla gÃ¶rÃ¼ntÃ¼leyebilir. AyrÄ±ca admin paneli Ã¼zerinden bazÄ± verileri yÃ¶netebilirsiniz.
 
-Proje İçeriği
+Proje Ä°Ã§eriÄŸi
 View Component
-Projede, kullanıcı dostu arayüzler oluşturmak için view component kullanıldı. Bu bileşen, dinamik içeriklerin ve kullanıcı etkileşimlerinin kolayca yönetilmesini sağlar.
+Projede, kullanÄ±cÄ± dostu arayÃ¼zler oluÅŸturmak iÃ§in view component kullanÄ±ldÄ±. Bu bileÅŸen, dinamik iÃ§eriklerin ve kullanÄ±cÄ± etkileÅŸimlerinin kolayca yÃ¶netilmesini saÄŸlar.
 
 Admin Paneli
-Admin paneli, kullanıcıların uygulama üzerinde yönetimsel işlemleri gerçekleştirmelerini sağlar. Admin, portföy içeriklerini düzenleyebilir, istatistikleri görüntüleyebilir, mesajlara erişebilir ve daha fazlasını yapabilir.
+Admin paneli, kullanÄ±cÄ±larÄ±n uygulama Ã¼zerinde yÃ¶netimsel iÅŸlemleri gerÃ§ekleÅŸtirmelerini saÄŸlar. Admin, portfÃ¶y iÃ§eriklerini dÃ¼zenleyebilir, istatistikleri gÃ¶rÃ¼ntÃ¼leyebilir, mesajlara eriÅŸebilir ve daha fazlasÄ±nÄ± yapabilir.
 
 Deneyim
-Deneyim kısmı, kişisel deneyimlerimi ve geçmiş iş tecrübelerimi sergileyen bir bölümdür. Kullanıcılar, çalıştığım projeler ve iş deneyimlerim hakkında bilgi alabilirler.
+Deneyim kÄ±smÄ±, kiÅŸisel deneyimlerimi ve geÃ§miÅŸ iÅŸ tecrÃ¼belerimi sergileyen bir bÃ¶lÃ¼mdÃ¼r. KullanÄ±cÄ±lar, Ã§alÄ±ÅŸtÄ±ÄŸÄ±m projeler ve iÅŸ deneyimlerim hakkÄ±nda bilgi alabilirler.
 
-İstatistik
-İstatistik bölümü, site kullanım verilerini ve portföyümdeki projelerin performansını gösteren grafiklerle kullanıcıya bilgi verir.
+Ä°statistik
+Ä°statistik bÃ¶lÃ¼mÃ¼, site kullanÄ±m verilerini ve portfÃ¶yÃ¼mdeki projelerin performansÄ±nÄ± gÃ¶steren grafiklerle kullanÄ±cÄ±ya bilgi verir.
 
 Mesajlar
-Mesajlar bölümü, ziyaretçilerin benimle iletişime geçebileceği bir iletişim formu sunar. Bu sayede, ziyaretçiler site üzerinden bana mesaj gönderebilirler.
+Mesajlar bÃ¶lÃ¼mÃ¼, ziyaretÃ§ilerin benimle iletiÅŸime geÃ§ebileceÄŸi bir iletiÅŸim formu sunar. Bu sayede, ziyaretÃ§iler site Ã¼zerinden bana mesaj gÃ¶nderebilirler.
 
 TodoList
-Uygulama, admin veya kullanıcıların günlük görevlerini takip edebileceği bir ToDo List özelliği sunar. Kullanıcılar, yapılacak işleri ekleyebilir, tamamlayabilir veya silebilirler.
+Uygulama, admin veya kullanÄ±cÄ±larÄ±n gÃ¼nlÃ¼k gÃ¶revlerini takip edebileceÄŸi bir ToDo List Ã¶zelliÄŸi sunar. KullanÄ±cÄ±lar, yapÄ±lacak iÅŸleri ekleyebilir, tamamlayabilir veya silebilirler.
 
-SQL Veritabanı Kullanımı
-Projede, kullanıcı bilgilerini, mesajları, görevleri ve istatistikleri saklamak için SQL veritabanı kullanılmıştır. Veritabanı, verilerin kalıcı bir şekilde depolanmasına olanak sağlar ve admin paneli üzerinden kolayca yönetilebilir. Veritabanı bağlantıları, SQL sorguları ve CRUD işlemleri projede uygulanmıştır.
+SQL VeritabanÄ± KullanÄ±mÄ±
+Projede, kullanÄ±cÄ± bilgilerini, mesajlarÄ±, gÃ¶revleri ve istatistikleri saklamak iÃ§in SQL veritabanÄ± kullanÄ±lmÄ±ÅŸtÄ±r. VeritabanÄ±, verilerin kalÄ±cÄ± bir ÅŸekilde depolanmasÄ±na olanak saÄŸlar ve admin paneli Ã¼zerinden kolayca yÃ¶netilebilir. VeritabanÄ± baÄŸlantÄ±larÄ±, SQL sorgularÄ± ve CRUD iÅŸlemleri projede uygulanmÄ±ÅŸtÄ±r.
 
-Kullanılan Teknolojiler
+KullanÄ±lan Teknolojiler
 HTML5
 
 CSS3
 
 JavaScript
 
-Bootstrap (Responsive design için)
+Bootstrap (Responsive design iÃ§in)
 
-Node.js ve Express.js (Backend geliştirme)
+SQL (VeritabanÄ± yÃ¶netimi)
 
-MongoDB (Veri tabanı)
+Git (Versiyon kontrolÃ¼)
 
-SQL (Veritabanı yönetimi)
-
-Git (Versiyon kontrolü)
-
-GitHub (Proje barındırma)
+GitHub (Proje barÄ±ndÄ±rma)
