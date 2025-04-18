@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|c:\\users\\asus\\desktop\\myportfolioudemy\\myportfolioudemy\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|solutionrelative:myportfolioudemy\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\myportfolioudemy\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|solutionrelative:myportfolioudemy\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\myportfolioudemy\\views\\shared\\components\\layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|solutionrelative:myportfolioudemy\\views\\shared\\components\\layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\myportfolioudemy\\views\\shared\\components\\layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|solutionrelative:myportfolioudemy\\views\\shared\\components\\layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\myportfolioudemy\\views\\shared\\components\\aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|solutionrelative:myportfolioudemy\\views\\shared\\components\\aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\myportfolioudemy\\views\\todolist\\updatetodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|solutionrelative:myportfolioudemy\\views\\todolist\\updatetodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\myportfolioudemy\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|solutionrelative:myportfolioudemy\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\myportfolioudemy\\viewcomponents\\layoutviewcomponents\\layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B13455D-D092-4E76-9B41-104BE5ADB749}|MyPortfolioUdemy\\MyPortfolioUdemy.csproj|solutionrelative:myportfolioudemy\\viewcomponents\\layoutviewcomponents\\layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 89,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioUdemy\\Views\\Statistic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\Statistic\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolioUdemy\\Views\\Statistic\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T18:55:33.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\ToDoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioUdemy\\Views\\ToDoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\ToDoList\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolioUdemy\\Views\\ToDoList\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T17:25:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\Shared\\Components\\LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioUdemy\\Views\\Shared\\Components\\LayoutNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\Shared\\Components\\LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioUdemy\\Views\\Shared\\Components\\LayoutNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:25:23.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioUdemy\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioUdemy\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:19:21.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\Shared\\Components\\LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioUdemy\\Views\\Shared\\Components\\LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\Shared\\Components\\LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioUdemy\\Views\\Shared\\Components\\LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:16:34.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateToDoList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioUdemy\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "RelativeToolTip": "MyPortfolioUdemy\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T17:55:22.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LayoutNavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\ViewComponents\\LayoutViewComponents\\LayoutNavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolioUdemy\\ViewComponents\\LayoutViewComponents\\LayoutNavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\ViewComponents\\LayoutViewComponents\\LayoutNavbarComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolioUdemy\\ViewComponents\\LayoutViewComponents\\LayoutNavbarComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:03:19.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Controllers\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "MyPortfolioUdemy\\Controllers\\ToDoListController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MyPortfolioUdemy\\MyPortfolioUdemy\\Controllers\\ToDoListController.cs",
+              "RelativeToolTip": "MyPortfolioUdemy\\Controllers\\ToDoListController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:24:01.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
